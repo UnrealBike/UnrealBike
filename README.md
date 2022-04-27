@@ -1,6 +1,5 @@
-I program.
 I have knowledge on Luau & HTML.
-Focusing on CSS & JavaScript.
+Focusing on C# for Unity
 
 Discord: ye#6920
 --
